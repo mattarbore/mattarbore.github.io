@@ -45,7 +45,6 @@ Below is a breakdown of my primary technical competencies.
 ## Currently Learning
 - Advanced Python data processing
 - Cloud-based database services
-- Cybersecurity frameworks and compliance standards
 
 ---
 

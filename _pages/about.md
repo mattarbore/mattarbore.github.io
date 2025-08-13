@@ -18,7 +18,9 @@ My approach blends technical skill with a focus on clear communication and pract
 ---
 ## Education
 
- **Bachelor of Science in Information Technology** - *Information Security and Assurance* Purdue Global University - 2024
+**Purdue Global University** 
+
+ **Bachelor of Science in Information Technology** - *Information Security and Assurance* 2024
 
 ---
 ## Expierence
@@ -26,8 +28,12 @@ My approach blends technical skill with a focus on clear communication and pract
 **Freelance IT Support Technician** 
 
 *Assistance League of Indianapolis*
+- Develop Python scripts to automate student data compilation and demographic reporting from Excel Files, streamlining administrative tasks for the Assistance League of Indianapolis.
 
 *Independent Software Development Team*
+- Build and support SQL Server databases for applications in development to ensure data integrity, performance, and scalability.
+- Develop Python scripts to automate data processing and reporting to improve efficiency of development processes.
+- Conduct quality assurance tests to identify issues and support the debug process.
 
 ---
 
