@@ -3,11 +3,47 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
-author_profile: false
+title: "Matthew Arbore"
+subtitle: "IT Professional & Data Analyst"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/voyager.jpg  # Replace with your own background image
+  actions:
+    - label: "View My Projects"
+      url: "/projects/"
+    - label: "Get in Touch"
+      url: "/contact/"
+
+---
+## WIP
+## Welcome
+
+I’m **Matthew Arbore**, an IT Support Specialist and Data Analyst passionate about **problem-solving, technology integration, and data-driven decision making**.  
+
+With experience in **SQL databases, QA testing, IT systems support, and digital forensics**, I help organizations turn information into actionable results while ensuring secure, reliable technology operations.
+
 ---
 
-Detail-oriented IT professional with hands-on experience in software development, data processing automation and SQL database management. Skilled in managing SQL Server databases, working in Windows/Linux environments, and applying information security principles.  Proven ability to create custom Python scripts that streamline workflows and improve reporting accuracy.
+## Skills at a Glance
+- **Databases:** SQL Server, Query & Reporting, Data Analysis  
+- **Systems:** Windows & Linux OS, Windows Server, Virtual Machines  
+- **Security:** Information Security, Digital Forensics, Cloud Security  
+- **Tools:** Git, Microsoft Visio, Excel, PowerPoint  
+- **Other:** Research & Report Writing, Photo & Video Editing, Digital Audio Workstations  
 
-- Project 1
-- Project 2
-- Project 3
+---
+
+## Featured Projects
+{% include feature_row id="projects" type="left" %}
+
+---
+
+
+---
+
+## Get in Touch
+- 📧 [YourEmail@example.com](mailto:YourEmail@example.com)  
+- 💼 [LinkedIn](#)  
+- 💻 [GitHub](#)  
+
