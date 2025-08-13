@@ -18,9 +18,7 @@ My approach blends technical skill with a focus on clear communication and pract
 ---
 ## Education
 
-**Purdue Global University** 2024
-
-- *Bachelor of Science in Information Technology - Information Security and Assurance* 
+ **Bachelor of Science in Information Technology** - *Information Security and Assurance* Purdue Global University - 2024
 
 ---
 ## Expierence
@@ -28,6 +26,7 @@ My approach blends technical skill with a focus on clear communication and pract
 **Freelance IT Support Technician** 
 
 *Assistance League of Indianapolis*
+
 *Independent Software Development Team*
 
 ---
