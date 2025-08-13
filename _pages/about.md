@@ -20,7 +20,7 @@ My approach blends technical skill with a focus on clear communication and pract
 
 **Purdue Global University** 
 
- **Bachelor of Science in Information Technology** - *Information Security and Assurance* 2024
+ **Bachelor of Science in Information Technology** - *Information Security and Assurance*
 
 ---
 ## Expierence
