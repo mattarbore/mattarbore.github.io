@@ -1,8 +1,8 @@
 ---
-permalink: /projects/
-title: "Projects"
+permalink: /about/
+title: "About"
 ---
 
-- Captstone Project
+- Lorem Ipsum
   
   
