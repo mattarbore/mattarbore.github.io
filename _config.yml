@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Matthew Arbore Portfolio
+title: Matthew Arbore Professional Portfolio
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Matthew Arbore"
   avatar : "/assets/images/voyager.jpg"
-  bio    : "Detail-oriented IT professional with hands-on experience in software development, data processing automations and SQL database managment.  Skilled in managing SQL Server databases, working in Windows/Linux environments, and applying information security principles.  Proven ability to create custom Python Scripts that streamline workflows and improve reporting accuracy."
+  bio    : "Detail-oriented IT professional with hands-on experience in SQL database management, data processing automations, software development, and applying information secuirty principles."
   links:
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
