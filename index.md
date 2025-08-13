@@ -8,6 +8,6 @@ author_profile: true
 
 Detail-oriented IT professional with hands-on experience in software development, data processing automation and SQL database management. Skilled in managing SQL Server databases, working in Windows/Linux environments, and applying information security principles.  Proven ability to create custom Python scripts that streamline workflows and improve reporting accuracy.
 
--Project 1
--Project 2
--Project 3
+- Project 1
+- Project 2
+- Project 3
