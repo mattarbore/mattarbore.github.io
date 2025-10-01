@@ -1,0 +1,25 @@
+capstone-sqlserver:
+  - url: /assets/images/capstone-sqlserver/dataflow.png
+    image_path: /assets/images/capstone-sqlserver/dataflow_thumb.png
+    alt: "Data Flow Diagram"
+    title: "Data Flow Diagram"
+
+  - url: /assets/images/capstone-sqlserver/erd.png
+    image_path: /assets/images/capstone-sqlserver/erd_thumb.png
+    alt: "Entity Relationship Diagram"
+    title: "Entity Relationship Diagram"
+
+  - url: /assets/images/capstone-sqlserver/queries.png
+    image_path: /assets/images/capstone-sqlserver/queries_thumb.png
+    alt: "Essential Queries"
+    title: "Essential Queries"
+
+  - url: /assets/images/capstone-sqlserver/report.png
+    image_path: /assets/images/capstone-sqlserver/report_thumb.png
+    alt: "Work Order Report"
+    title: "Work Order Report"
+
+  - url: /assets/images/capstone-sqlserver/Database_Technical_Document.pdf
+    image_path: /assets/images/capstone-sqlserver/doc_thumb.png
+    alt: "Technical Documentation"
+    title: "Technical Documentation (PDF)"
