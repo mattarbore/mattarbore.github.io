@@ -3,6 +3,7 @@ title: "Projects"
 permalink: /projects/
 ---
 
+
 # 🚀 Projects  
 
 Here are some of my featured projects that highlight my skills in **SQL Server, Python automation, cloud systems, cybersecurity, and IT project management**.  
