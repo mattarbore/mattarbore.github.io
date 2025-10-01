@@ -16,6 +16,7 @@ Designed and implemented a SQL Server database to support a mobile app for a fic
 **Tools:** SQL Server, Microsoft Visio, Excel, PowerPoint  
 [🔗 View Repository](https://github.com/mattarbore/capstone-sqlserver/)  
 
+{% include gallery id="capstone-sqlserver" %}
 ---
 
 ## 🐍 OSB Python Scripts – Assistance League of Indianapolis  
