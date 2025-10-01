@@ -5,7 +5,7 @@ title: "About"
 
 ## Hi, I’m Matthew Arbore
 
-I’m a detail-oriented IT professional with hands-on experience in software development, data processing automation and SQL database management. Skilled in managing SQL Server databases, working in Windows/Linux environments, and applying information security principles.  With a proven ability to create custom Python scripts that streamline workflows and improve reporting accuracy.
+I’m a detail-oriented IT professional with hands-on experience in SQL Server database management, data analysis, and IT support.  I am skilled in building and maintaining databases, automating data reporting with Python, and supporting users in Windows and Linux environments.  Strong background in data integrity, troubleshooting, and system administration.  With a proven ability to streamline workflows, improve reporting accuracy, and provide reliable IT support for technical and non-technical teams.
 
 Over the past few years, I’ve worked on:
 - **Database design & management** using SQL Server, including data migration and reporting automation.
@@ -22,18 +22,26 @@ My approach blends technical skill with a focus on clear communication and pract
 
  **Bachelor of Science in Information Technology** - *Information Security and Assurance*
 
+ **1150 Coding Academy**
+ 
+ - Gained experience with Python, Java, C#, HTML, CSS.
+  
+ - Built websites and worked with SQL databases.
+
 ---
 ## Expierence
 
-**Freelance IT Support Technician** 
+**Freelance IT Support Technician & Database Specialist** 
 
-*Assistance League of Indianapolis*
-- Develop Python scripts to automate student data compilation and demographic reporting from Excel Files, streamlining administrative tasks for the Assistance League of Indianapolis.
+*Assistance League of Indianapolis* & *Remote Software Development Team*
 
-*Independent Software Development Team*
-- Build and support SQL Server databases for applications in development to ensure data integrity, performance, and scalability.
-- Develop Python scripts to automate data processing and reporting to improve efficiency of development processes.
-- Conduct quality assurance tests to identify issues and support the debug process.
+- Build and maintain SQL Server databases to support applications in development, ensuring performance, data integrity, and security.
+
+- Develop custom Python automation scripts to process Excel data, saving time on administrative tasks for nonprofit clients.
+
+- Conduct quality assurance testing and support debugging to improve reliability of in-development applications.
+
+- Provide IT support services, troubleshooting hardware/software issues, maintaining Windows/Linux environments, and assisting users with system tools.
 
 ---
 
