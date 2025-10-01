@@ -5,60 +5,70 @@ permalink: /projects/
 excerpt: "A showcase of projects demonstrating my technical expertise, problem-solving skills, and professional experience."
 ---
 
-Below is a selection of academic and personal projects that highlight my skills in database development, systems analysis, and IT solutions.  
-More projects will be added as they are documented and uploaded.
+# 🚀 Projects  
+
+Here are some of my featured projects that highlight my skills in **SQL Server, Python automation, cloud systems, cybersecurity, and IT project management**.  
 
 ---
 
-## 🚀 Technical / Code-Based Projects
+## 📊 SQL Server Capstone – Bicycle Service Company  
+Designed and implemented a SQL Server database to support a mobile app for a fictional bicycle service company. Automated work order processing, technician management, and billing/reporting.  
 
-### Bicycle Service Company Database
-**Skills:** SQL Server, Database Design, Automation  
-- Designed and implemented a relational database to manage customer work orders, service locations, and field technician assignments.  
-- Automated billing and reporting through SQL stored procedures.  
-- Created ERD diagrams and normalization documentation for database optimization.
-
-**Links:**  
-[📂 GitHub Repository](#)  
-[🖼 Screenshot Gallery](#) *(optional)*  
+**Tools:** SQL Server, Microsoft Visio, Excel, PowerPoint  
+[🔗 View Repository](https://github.com/mattarbore/sql_capstone)  
 
 ---
 
-### Airplane Crash Data Visualization
-**Skills:** Python, Data Analysis, SQL Server, Data Visualization  
-- Stored historical aviation crash data in a non-relational SQL Server structure.  
-- Created Python scripts for querying, cleaning, and visualizing the dataset.  
-- Built a simple GUI for interactive exploration of the data.
+## 🐍 OSB Python Scripts – Assistance League of Indianapolis  
+Developed Python automation scripts to process data from 100+ Excel files into a single consolidated report. Reduced manual administrative work and improved reporting efficiency for Operation School Bell.  
 
-**Links:**  
-[📂 GitHub Repository](#)  
-[🖼 Screenshot Gallery](#)
+**Tools:** Python, Pandas, OpenPyXL, Excel  
+[🔗 View Repository](https://github.com/mattarbore/OSBpython_scripts)  
 
 ---
 
-## 📄 Research & Case Study Projects
+## 🗂️ Case Studies Portfolio  
+A collection of case studies completed during my IT degree, covering system design, feasibility studies, cybersecurity planning, and business analysis. Each case study demonstrates structured problem-solving and professional IT documentation.  
 
-### Mystic Brewery Business Case Study
-**Skills:** Feasibility Analysis, System Implementation, Data-Driven Decision Making  
-- Conducted a business needs analysis for implementing a cloud-based POS and inventory system.  
-- Delivered cost/benefit analysis and migration strategy.  
-- Created a business contingency plan and recommendations for continuous improvement.
-
-**Download:**  
-[📄 PDF Report](../assets/files/mystic-brewery-case-study.pdf)  
+**Tools:** Microsoft Visio, Excel, PowerPoint, Technical Writing  
+[🔗 View Repository](https://github.com/mattarbore/case_study)  
 
 ---
 
-### Cybersecurity Risk Assessment Report
-**Skills:** IT Security, Risk Management, Systems Analysis  
-- Developed a security assessment for a small business IT network.  
-- Recommended mitigation strategies for vulnerabilities and compliance gaps.  
-- Provided implementation plan with prioritization of security improvements.
+## 🌐 Network Solution Plan – Photo Company  
+Created a network solution plan to upgrade a photography company’s existing infrastructure. Deliverables included a security policy, physical security plan, network design, and training/implementation schedules.  
 
-**Download:**  
-[📄 PDF Report](../assets/files/cybersecurity-risk-assessment.pdf)  
+**Tools:** Microsoft Visio, Excel, PowerPoint  
+[🔗 View Repository](https://github.com/mattarbore/network_solution_plan)  
 
 ---
+
+## 🎵 North Music – SQL Database Integration  
+Designed a scalable SQL database to support a mobile application for North Music. Deliverables included requirements analysis, ERD diagrams, normalized schema, integration strategy, and a Change Request Presentation.  
+
+**Tools:** SQL Server, Microsoft Visio, PowerPoint  
+[🔗 View Repository](https://github.com/mattarbore/case_study/tree/main/NorthMusic)  
+
+---
+
+## 🍺 Mystic Brewery – Cloud POS Feasibility Study  
+Developed a business case and feasibility study for implementing a cloud-based POS system integrated with inventory management. Project deliverables included migration plans, conversion strategies, contingency planning, and cost/benefit analysis.  
+
+**Tools:** Cloud Systems Research, Excel, PowerPoint  
+[🔗 View Repository](https://github.com/mattarbore/case_study/tree/main/MysticBrewery)  
+
+---
+
+# 🏆 Highlights  
+
+- Automated **100+ Excel files** into a single report for a nonprofit  
+- Built a **SQL Server backend** for a mobile service application  
+- Designed **cybersecurity training & policies** for organizational resilience  
+- Conducted **feasibility studies & ROI analysis** for IT system upgrades  
+- Created **professional technical documentation** (Visio, Excel, PowerPoint) across multiple industries  
+
+---
+
 
 ## 🛠 How This Page Will Grow
 - New projects will be uploaded as either GitHub repositories or embedded PDF case studies.  
