@@ -2,7 +2,6 @@
 layout: single
 title: "Projects"
 permalink: /projects/
-excerpt: "A showcase of projects demonstrating my technical expertise, problem-solving skills, and professional experience."
 ---
 
 # 🚀 Projects  
