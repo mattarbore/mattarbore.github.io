@@ -14,8 +14,16 @@ Here are some of my featured projects that highlight my skills in **SQL Server, 
 Designed and implemented a SQL Server database to support a mobile app for a fictional bicycle service company. Automated work order processing, technician management, and billing/reporting.  
 
 **Tools:** SQL Server, Microsoft Visio, Excel, PowerPoint  
-[🔗 View Repository](https://github.com/mattarbore/sql_capstone)  
+[🔗 View Repository](https://github.com/mattarbore/capstone-sqlserver/)  
 
+{% include gallery id="capstone-sqlserver" %}
+
+[![Data Flow Diagram](assets/images/capstone-sqlserver/DataFlowDiagram_thumb.png)](assets/images/capstone-sqlserver/DataFlowDiagram.png)
+[![ERD Diagram](assets/images/capstone-sqlserver/EntityRelationshipDiagramFinal(3rdNormalForm)_thumb.png)](assets/images/capstone-sqlserver/EntityRelationshipDiagramFinal(3rdNormalForm).png)  
+[![Essential Queries](assets/images/capstone-sqlserver/EssentialQueries_thumb.png)](assets/images/capstone-sqlserver/EssentialQueries.png)
+[![Work Order Report](assets/images/capstone-sqlserver/WorkOrderReport_thumb.png)](assets/images/capstone-sqlserver/WorkOrderReport.png)   
+[![Technical Documentation](assets/images/capstone-sqlserver/TechnicalDocument_thumb.png)](assets/images/capstone-sqlserver/Database_Technical_Document.pdf)
+ 
 ---
 
 ## 🐍 OSB Python Scripts – Assistance League of Indianapolis  
